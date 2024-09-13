@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: wall
+    uniqueID: 3501614409
+    locked: 0
+  - name: road
+    uniqueID: 2898151497
+    locked: 0
+  - name: tree
+    uniqueID: 804286673
+    locked: 0
+  - name: Ground
+    uniqueID: 1734743485
+    locked: 0
