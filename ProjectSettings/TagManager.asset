@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - FxTemporaire
   - waste
   - Dustbin
+  - kick
   layers:
   - Default
   - TransparentFX
@@ -16,7 +16,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Platforms
   - 
   - 
   - 
@@ -44,15 +44,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: wall
-    uniqueID: 3501614409
+  - name: Perspective
+    uniqueID: 3420322187
     locked: 0
-  - name: road
-    uniqueID: 2898151497
-    locked: 0
-  - name: tree
-    uniqueID: 804286673
-    locked: 0
-  - name: Ground
-    uniqueID: 1734743485
+  - name: Top
+    uniqueID: 282671577
     locked: 0

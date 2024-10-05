@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
+    path: Assets/IndieMarc/PlatformerDemo/PlatformerDemo.unity
+    guid: 230ee21eea18d46e48f6038641c438b7
+  - enabled: 0
+    path: Assets/IndieMarc/TopDownDemo/TopDownDemo.unity
+    guid: 35fa846952ea23b41a9dca4d21464be1
+  - enabled: 0
     path: Assets/Scenes/CityScape.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/CollegeStudent/Demo/Demo.unity
-    guid: 782c85a8be066634b8a8ded3774f91e8
+    path: Assets/Scenes/PollutedCity.unity
+    guid: d5fd649839247834c9b799e58632185d
   m_configObjects: {}
