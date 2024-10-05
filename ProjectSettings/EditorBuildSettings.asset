@@ -15,6 +15,15 @@ EditorBuildSettings:
     path: Assets/Scenes/CityScape.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/home.unity
+    guid: 1665cbce0cbb65e41b3c11654b106555
+  - enabled: 1
     path: Assets/Scenes/PollutedCity.unity
     guid: d5fd649839247834c9b799e58632185d
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 400a1f530c8dbf44ba256d0b78f9b340
+  - enabled: 1
+    path: Assets/Scenes/ocean.unity
+    guid: 61be1242db88dd94783246a4ab3bc10f
   m_configObjects: {}
