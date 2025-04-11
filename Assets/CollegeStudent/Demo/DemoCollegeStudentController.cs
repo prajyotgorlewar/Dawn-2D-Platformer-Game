@@ -116,7 +116,7 @@ namespace ClearSky
             {
                 isJumping = true;
                 anim.SetBool("isJump", true);
-                rb.velocity = Vector2.zero;
+                rb.linearVelocity = Vector2.zero;
                 Vector2 jumpVelocity = new Vector2(0, jumpPower);
                 rb.AddForce(jumpVelocity, ForceMode2D.Impulse);
                 isJumping = false;
